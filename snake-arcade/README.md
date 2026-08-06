@@ -2,6 +2,10 @@
 
 Un juego de Snake en Java desarrollado bajo el patrón de arquitectura MVC (Modelo-Vista-Controlador) con interfaz gráfica en Swing.
 
+# Integrantes 
+Nestor Rincon
+Simon Chourio
+
 ## Descripción del Juego
 Controlas a la serpiente para comer la mayor cantidad de comida posible. Cada elemento consumido aumenta el tamaño de la serpiente y suma 10 puntos. El juego termina si chocas contra los bordes de la pantalla o contra el propio cuerpo de la serpiente.
 
